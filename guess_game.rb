@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Taras Matiiv
 max_number = ARGV[0].to_i
 
 random_number = rand(1..max_number)
