@@ -2,7 +2,6 @@
 max_number = ARGV[0].to_i
 
 random_number = rand(1..max_number)
-puts random_number
 i = 0
 loop do
   i += 1	
